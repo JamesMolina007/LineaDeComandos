@@ -1,0 +1,8 @@
+/home/james/Escritorio/recurso2
+/home/james/Escritorio/examen
+/home/james/Escritorio/recursiva.cpp
+/home/james/Escritorio/recursiva.cpp
+/home/james/Escritorio/examen
+/home/james/Escritorio/snake
+/home/james/Escritorio/Ejercicio_1
+/home/james/Escritorio/pruebas/amigo
